@@ -1,7 +1,7 @@
 # Requirements
-Python 3.9
-Django 3.2
-GitHub Desktop
+* Python 3.9
+* Django 3.2
+* GitHub Desktop
 
 # To Clone and Run
 * Click Download (the green button at the top right)
